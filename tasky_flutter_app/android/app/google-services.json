@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "232548312991",
+    "project_id": "flutter-tasky",
+    "storage_bucket": "flutter-tasky.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:232548312991:android:d273f345f7e1cb1688bfaa",
+        "android_client_info": {
+          "package_name": "com.example.tasky_flutter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "232548312991-f455vgmg2ofmuitdrrneptvdnkavsm2u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tasky_flutter_app",
+            "certificate_hash": "9604316713b997710c0dbaf0c4a771346be03973"
+          }
+        },
+        {
+          "client_id": "232548312991-771ejpaurc3sc5gqc2annt5sacgr7sdi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByPvBKAMgRBoAuBwgAWpL5AUkftP9D_0E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "232548312991-771ejpaurc3sc5gqc2annt5sacgr7sdi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
