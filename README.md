@@ -7,3 +7,6 @@ The Flutter Tasky app offers a seamless and secure task management solution. The
 
 ## Dart SDK Version
 3.1.2
+
+## Screen Shots
+![Screenshot 2025-03-24 133313](https://github.com/user-attachments/assets/b22c51f4-9644-4a21-a691-a5123fba84f6)
